@@ -1,0 +1,16 @@
+{
+  "whatToPrint": "制造什么",
+  "helpMessageWhatToPrint": "通过选择“流程”、“材料”或“公差”等条件，指定您的请求。不必填写所有条件，也不必向服务提供商征求意见。",
+  "downloadError": "无法加载模型 {modelName}，请选择一个新模型",
+  "error": "出现错误",
+  "selectANewFile": "选择新文件",
+  "cartCreationFail": "创建购物车失败，请稍后再试",
+  "cartItemsCreationFail": "创建购物车物品失败",
+  "accordionMinGeometryQuality": "几何图形质量",
+  "accordionMinAnnotations": "标注",
+  "accordionMinProperties": "特性",
+  "accordionMinSpecifications": "规格",
+  "accordionMinQuantityDelivery": "数量和交付",
+  "offerNotFound": "未找到产品/服务",
+  "loadingAnnotationsWorkshop": "加载 3D 标注车间"
+}

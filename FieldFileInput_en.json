@@ -1,0 +1,8 @@
+{
+  "noFileSelected": "未选择文件",
+  "isRequired": "{0} 必填",
+  "isInvalid": "{0} 无效",
+  "wrongFileType": "文件类型错误",
+  "fileTooBig": "文件大小超过 1Mb 的限制",
+  "fileUploadFailed": "文件上传失败。请重试。"
+}

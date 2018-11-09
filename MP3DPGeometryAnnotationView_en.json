@@ -1,0 +1,8 @@
+{
+  "annotationButton": "3D 标注",
+  "save": "保存",
+  "exitAnnotation": "退出标注",
+  "oneAnnotatedPartSaved": "添加了一个已标注的零件",
+  "nbAnnotatedPartsSaved": "添加 {nbAnnotatedPartsSaved} 个已标注的零件",
+  "annotatedPartsSaveError": "很抱歉，在执行标注保存操作时出现错误。请稍后重试"
+}

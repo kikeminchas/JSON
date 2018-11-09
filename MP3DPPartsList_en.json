@@ -1,0 +1,14 @@
+{
+  "partsIncluded": "包含的零件",
+  "addParts": "添加零件",
+  "checkStatusChecked": "模型具有几何图形问题",
+  "checkStatusValidatedWithErrors": "模型几何图形问题验证",
+  "checkStatusNoService": "此环境上没有“检查并修复”服务",
+  "checkStatusCheckFail": "几何图形检查失败",
+  "checkStatusRepairFail": "几何图形修复失败",
+  "checkStatusValidated": "模型几何图形有效",
+  "checkStatusCheckInProgress": "模型几何图形正在检查",
+  "checkStatusRepairInProgress": "模型几何图形正在修复",
+  "maxFileSelection": "您最多可以选择 {number} 个文件",
+  "ieNoMultipart": "Internet Explorer 不支持多零件订单，请使用其他浏览器"
+}

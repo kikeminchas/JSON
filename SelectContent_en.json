@@ -1,0 +1,11 @@
+{
+  "selectTheSTLFileYouWantToPrint": "选择要制造的内容",
+  "printBtn": "选择",
+  "nbSelectedFiles": "{number} 个选定文件",
+  "maxFileSelection": "您最多可以选择 {number} 个文件",
+  "maxSizeSelection": "合计大小不能超过 {maxSize}",
+  "errorGettingFileSize": "获取文件大小时出错，请稍后重试",
+  "helpMessageSelect": "选择一个或多个文件以转到下一步",
+  "errorFileFormat": "不支持选定格式",
+  "ieNoMultipart": "Internet Explorer 不支持多零件订单，请使用其他浏览器"
+}

@@ -1,0 +1,8 @@
+{
+  "errorName": "必需提供公司名称",
+  "errorTaxRegId": "该税务登记 ID 无效，请更改",
+  "noSpecialCharacterMessage": "仅限字母数字字符（无重音符号）",
+  "errorPersonalIdNUmberFormat": "个人身份证号格式无效",
+  "errorRegistrationIdFormat": "登记 ID 格式无效",
+  "errorCountry": "需要填写国家/地区"
+}
